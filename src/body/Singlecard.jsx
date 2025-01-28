@@ -17,7 +17,7 @@ const Singlecard = ({value,handleclick}) => {
                 </div>
                 <div className='flex items-center'>      
                     <IoIosBookmark className='text-3xl' onClick={()=>handleclick(value)} />
-                    <p className='font-medium text-xl'>{reading_time}</p>
+                    <p className=''>{reading_time}</p>
                 </div>
             </div>
             <div className=' ml-3 my-2 text-2xl font-bold'>

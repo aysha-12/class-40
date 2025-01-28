@@ -7,13 +7,13 @@ const Header = () => {
 
      <div  className='bg-blue-100 '>
            
-       <div  className='max-w-6xl mx-auto flex justify-between py-3'>
-         <img className='h-[60px] w-[190px]' src={logoimg} alt="" />
+       <div  className='max-w-6xl mx-auto flex justify-between py-5'>
+         <img className='h-[60px] w-[200px]' src={logoimg} alt="" />
          <img src={logo} alt="" />
         
         </div>
       </div> 
-      <hr className='border-[2px] border-black'/>    
+      <hr className='border-[1px] border-black'/>    
       
      
         </div>
